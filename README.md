@@ -1,5 +1,5 @@
-PRIVACY POLICY FOR BROWSER EXTENSIONS
-=====================================
+PRIVACY POLICY
+==
 Effective Date | *1 August 2025*
 
 **INFORMATION COLLECTION**
@@ -21,5 +21,5 @@ This software operates locally within your browser and does not store any inform
 
 This Privacy Policy may be updated to reflect changes in practices or for other operational, legal, or regulatory reasons. Any changes will be posted on this page, and the "Effective Date" at the top of the policy will be updated. You are encouraged to review this Privacy Policy periodically. 
 
--------------------------------------
+---
 #privacypolicy #privacy #policy
