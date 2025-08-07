@@ -1,9 +1,10 @@
 PRIVACY POLICY FOR BROWSER EXTENSIONS
 =====================================
+Effective Date | *1 August 2025*
 
 **INFORMATION COLLECTION**
 
-This Chrome extension does not collect any personal or sensitive user data. No information that could be used to identify you, such as your name, email address, browsing history, or location, is gathered, stored, or transmitted. 
+This software does not collect any personal or sensitive user data. No information that could be used to identify you, such as your name, email address, browsing history, or location, is gathered, stored, or transmitted. 
 
 
 **DATA USAGE AND SHARING**
@@ -13,7 +14,7 @@ Since no data is collected, none of your data is used for any purpose, including
 
 **NO STORAGE OR TRANSMISSION**
 
-This extension operates locally within your browser and does not store any information on external servers or transmit any data outside your device. Any data used by the extension for its functionality is processed entirely within your browser and is not retained after your browsing session or upon uninstallation of the extension. 
+This software operates locally within your browser and does not store any information on external servers or transmit any data outside your device. Any data used by the software for its functionality is processed entirely within your browser and is not retained outside of your browser cache or upon uninstallation of the software. 
 
 
 **CHANGES TO THIS PRIVACY POLICY**
